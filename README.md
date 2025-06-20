@@ -6,6 +6,9 @@
 * Bernardo Willis A00837831
 * Julen Hoppenstedt A01174098
 
+  [![Video funcionalidad](https://img.youtube.com/vi/iaOVPcZ30gI/hqdefault.jpg)](https://www.youtube.com/watch?v=iaOVPcZ30gI)
+
+
 Proyecto que integra la plataforma Sorteos Tec con nuevos juegos elaborados en Unity, y que guarda todas las transacciones realizadas en una base de datos SQL.
 
 ![image](https://github.com/JulenHopp/clonePaginaWebSorteosTec/assets/122712372/aa237abc-4aef-40c8-9e61-13b01300515d)
@@ -19,4 +22,3 @@ Proyecto que integra la plataforma Sorteos Tec con nuevos juegos elaborados en U
 Herramientas utilizadas: Unity, servidor mySQL en Aiven, Node.js, Looker, HTML, CSS Y Javascript.
 
 
-[![Video funcionalidad](https://img.youtube.com/vi/iaOVPcZ30gI/hqdefault.jpg)](https://www.youtube.com/watch?v=iaOVPcZ30gI)
